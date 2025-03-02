@@ -1,4 +1,4 @@
-# :green_circle: PageReplacement-Algorithms-OS-Python
+# :green_circle: CPU-PageReplacement-Algorithms-OS-Python
 Contains the Python implementation of the following **Page Replacement Algorithms**:
  
    &nbsp; &nbsp; &nbsp;**1. FIFO Page Replacement**
@@ -42,4 +42,5 @@ Contains the Python implementation of the following **Page Replacement Algorithm
 ## > Download and run in Python (IDLE) :
 
 * Run -> Run Module
+* or python filename.py
 
